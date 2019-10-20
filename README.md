@@ -11,4 +11,4 @@ Tests principles of integration learned in first year-calculus, to see if they c
 
 Finds the volume of a sphere by taking the equation for one of its semicircles, then making a mesh of cylinders using the height of the semicircle to define the radius. As mesh -> infinity, resultant -> volume.
 
-This program is tested upon a unit sphere and its output is compared to the formula for its area.
+This program is tested upon a unit sphere and its output is compared to the formula for its volume (4/3 * pi)
